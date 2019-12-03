@@ -1,0 +1,19 @@
+.completed {
+    text-decoration: line-through;
+}
+
+.container {
+    margin-top: 4vh;
+}
+
+form {
+    margin-bottom: 12px;
+}
+
+.list-group-item {
+    font-size: 18px;
+}
+
+.list-group-item svg {
+    margin-right: 12px;
+}
